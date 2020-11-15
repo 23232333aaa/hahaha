@@ -10,4 +10,5 @@ Fatal Error的解决办法（感谢油管用户Yuki Yasuhira提供教程）：
 2. 进HKEY CURRENT USER→PopCap→PlantsVsZombies
 3. 右击白色的空间→新建→DWORD(32bit)→把新DWORD的名字变成ScreenMode
 4. 右击ScreenMode→改正 →把Data的数字变成0
-下载地址 https://drive.google.com/file/d/1d6KikuqHaARWgziBwc-ZJkntjW1I5J8G/edit
+下載地址https://drive.google.com/file/d/1d6KikuqHaARWgziBwc-ZJkntjW1I5J8G/edit
+資源來自網絡，如有違反請聯繫本人删除
